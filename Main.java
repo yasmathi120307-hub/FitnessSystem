@@ -1,11 +1,11 @@
-/*
-create classes member,gym member,yoga member,main and declare the variables which need to be in that classes
+-/*
+create classes - member,gym membership,yoga membership,main by creating file and declare the variables which need to be in that classes
 add the getter and setter methods for all the variables in all the classes
-create objects in main and set the value of variables
-create methods in membership files enroll cancel and unique feature to yoga and gym
+create objects in main and set the value of variables as two members 
+create methods in membership files - enroll,cancel and unique feature to yoga and gym
 and alter the main and print it
 now create abstract class and then interface for redundancy and security
-if statements
+if statements as two members are there and change the datatypes
  */
 
 public class Main {
